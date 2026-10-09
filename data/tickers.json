@@ -1,0 +1,100 @@
+[
+  {
+    "ticker": "BBCA.JK",
+    "name": "Bank Central Asia Tbk",
+    "exchange": "IDX",
+    "sector": "Financials",
+    "industry": "Banks"
+  },
+  {
+    "ticker": "BBRI.JK",
+    "name": "Bank Rakyat Indonesia (Persero) Tbk",
+    "exchange": "IDX",
+    "sector": "Financials",
+    "industry": "Banks"
+  },
+  {
+    "ticker": "BMRI.JK",
+    "name": "Bank Mandiri (Persero) Tbk",
+    "exchange": "IDX",
+    "sector": "Financials",
+    "industry": "Banks"
+  },
+  {
+    "ticker": "TLKM.JK",
+    "name": "Telkom Indonesia (Persero) Tbk",
+    "exchange": "IDX",
+    "sector": "Communication Services",
+    "industry": "Telecom Services"
+  },
+  {
+    "ticker": "ASII.JK",
+    "name": "Astra International Tbk",
+    "exchange": "IDX",
+    "sector": "Consumer Discretionary",
+    "industry": "Automotive & Conglomerate"
+  },
+  {
+    "ticker": "ICBP.JK",
+    "name": "Indofood CBP Sukses Makmur Tbk",
+    "exchange": "IDX",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods"
+  },
+  {
+    "ticker": "GOTO.JK",
+    "name": "GoTo Gojek Tokopedia Tbk",
+    "exchange": "IDX",
+    "sector": "Technology",
+    "industry": "Internet & E-Commerce"
+  },
+  {
+    "ticker": "BREN.JK",
+    "name": "Barito Renewables Energy Tbk",
+    "exchange": "IDX",
+    "sector": "Utilities",
+    "industry": "Renewable Electricity"
+  },
+  {
+    "ticker": "AMMN.JK",
+    "name": "Amman Mineral Internasional Tbk",
+    "exchange": "IDX",
+    "sector": "Basic Materials",
+    "industry": "Copper & Gold Mining"
+  },
+  {
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "exchange": "NASDAQ",
+    "sector": "Technology",
+    "industry": "Consumer Electronics"
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "exchange": "NASDAQ",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "exchange": "NASDAQ",
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc.",
+    "exchange": "NASDAQ",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information"
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon.com Inc.",
+    "exchange": "NASDAQ",
+    "sector": "Consumer Discretionary",
+    "industry": "Internet Retail"
+  }
+]

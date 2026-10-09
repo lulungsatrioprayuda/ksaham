@@ -1,0 +1,70 @@
+[
+  {
+    "id": "ipo-1",
+    "name": "PT Sumber Energi Nusantara Tbk",
+    "ticker": "SENA.JK",
+    "offeringPriceRange": "Rp 250 - Rp 320",
+    "sharesOffered": "1.250.000.000 lembar",
+    "publicPercentage": "20.0%",
+    "offeringPeriod": "12 - 16 Oktober 2026",
+    "listingDate": "20 Oktober 2026",
+    "underwriter": "PT Mandiri Sekuritas, PT Indo Premier Sekuritas",
+    "status": "offering",
+    "updatedAt": "2026-10-09",
+    "useOfFunds": [
+      "60% untuk ekspansi kapasitas pembangkit tenaga surya di Jawa Barat.",
+      "25% untuk pelunasan sebagian pokok pinjaman bank.",
+      "15% untuk modal kerja operasional perusahaan."
+    ],
+    "lockUpPeriod": "Pemegang saham pengendali berkomitmen lock-up selama 8 bulan sejak tanggal pencatatan.",
+    "keyRisks": [
+      "Fluktuasi harga komponen panel surya global.",
+      "Ketergantungan pada kontrak perjanjian jual beli listrik (PPA) jangka panjang dengan PLN.",
+      "Risiko regulasi terkait tarif insentif energi baru terbarukan."
+    ]
+  },
+  {
+    "id": "ipo-2",
+    "name": "PT Logistik Kilat Indonesia Tbk",
+    "ticker": "KILAT.JK",
+    "offeringPriceRange": "Rp 180 - Rp 220",
+    "sharesOffered": "800.000.000 lembar",
+    "publicPercentage": "18.5%",
+    "offeringPeriod": "22 - 27 Oktober 2026",
+    "listingDate": "3 November 2026",
+    "underwriter": "PT BCA Sekuritas",
+    "status": "upcoming",
+    "updatedAt": "2026-10-08",
+    "useOfFunds": [
+      "70% pengadaan armada truk listrik ramah lingkungan dan otomatisasi gudang.",
+      "30% untuk modal kerja dan pengembangan sistem pelacakan AI."
+    ],
+    "lockUpPeriod": "8 bulan lock-up untuk seluruh pemegang saham pra-IPO.",
+    "keyRisks": [
+      "Persaingan ketat tarif jasa kurir dan logistik last-mile.",
+      "Kenaikan biaya bahan bakar dan suku cadang armada."
+    ]
+  },
+  {
+    "id": "ipo-3",
+    "name": "PT Diagnostika Biotek Medika Tbk",
+    "ticker": "DBIO.JK",
+    "offeringPriceRange": "Rp 450 (Final)",
+    "sharesOffered": "500.000.000 lembar",
+    "publicPercentage": "15.0%",
+    "offeringPeriod": "25 - 29 September 2026",
+    "listingDate": "2 Oktober 2026",
+    "underwriter": "PT Mirae Asset Sekuritas Indonesia",
+    "status": "listed",
+    "updatedAt": "2026-10-02",
+    "useOfFunds": [
+      "80% pembangunan laboratorium genomik klinis modern di Surabaya.",
+      "20% modal kerja reagen dan lisensi teknologi tes diagnostik."
+    ],
+    "lockUpPeriod": "Pemegang saham pendiri lock-up 12 bulan.",
+    "keyRisks": [
+      "Kepatuhan regulasi alat kesehatan dan sertifikasi Kemenkes.",
+      "Ketergantungan pada tim riset kunci dan ahli genetika."
+    ]
+  }
+]
